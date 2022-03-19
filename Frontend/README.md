@@ -3,6 +3,5 @@
 ## Technos :
 
 - React
-- Cors
 - TypeScript
 - CSS
