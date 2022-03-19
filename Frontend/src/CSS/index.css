@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  color: #222;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+h1,
+h2 {
+  font-size: 250%;
+}
+
+h3,
+h4 {
+  font-size: 200%;
+}
+
+p {
+  font-size: 125%;
+  margin: 1%;
+}
